@@ -1,0 +1,7 @@
+D:\SimpleDotNetHtmlApp\bin\Publish\SimpleDotNetHtmlApp.exe
+D:\SimpleDotNetHtmlApp\bin\Publish\appsettings.Development.json
+D:\SimpleDotNetHtmlApp\bin\Publish\appsettings.json
+D:\SimpleDotNetHtmlApp\bin\Publish\SimpleDotNetHtmlApp.dll
+D:\SimpleDotNetHtmlApp\bin\Publish\SimpleDotNetHtmlApp.deps.json
+D:\SimpleDotNetHtmlApp\bin\Publish\SimpleDotNetHtmlApp.runtimeconfig.json
+D:\SimpleDotNetHtmlApp\bin\Publish\SimpleDotNetHtmlApp.pdb

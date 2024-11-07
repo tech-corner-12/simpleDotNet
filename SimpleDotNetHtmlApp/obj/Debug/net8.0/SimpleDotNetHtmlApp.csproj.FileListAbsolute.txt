@@ -28,3 +28,4 @@ D:\SimpleDotNetHtmlApp\SimpleDotNetHtmlApp\obj\Debug\net8.0\refint\SimpleDotNetH
 D:\SimpleDotNetHtmlApp\SimpleDotNetHtmlApp\obj\Debug\net8.0\SimpleDotNetHtmlApp.pdb
 D:\SimpleDotNetHtmlApp\SimpleDotNetHtmlApp\obj\Debug\net8.0\SimpleDotNetHtmlApp.genruntimeconfig.cache
 D:\SimpleDotNetHtmlApp\SimpleDotNetHtmlApp\obj\Debug\net8.0\ref\SimpleDotNetHtmlApp.dll
+D:\SimpleDotNetHtmlApp\SimpleDotNetHtmlApp\obj\Debug\net8.0\SimpleDotNetHtmlApp.sourcelink.json
